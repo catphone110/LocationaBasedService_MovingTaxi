@@ -1,11 +1,11 @@
 
----- common    公共模块
+---- common    
 |
-|___ conf      配置文件
+|___ conf     
 |
-|___ simulator 模拟器
+|___ simulator  
 |
-|___ server    服务器
+|___ server  
      ｜
-     ｜_____  grid  网格索引与查询模块
+     ｜_____  grid  [KNN Query, Find ALL Taxi, Update]
 
