@@ -1,6 +1,4 @@
-LBS
-｜_____ 
-      
+ lbs
       ---- common    
       |
       |___ conf     
